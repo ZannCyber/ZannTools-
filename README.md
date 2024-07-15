@@ -16,5 +16,6 @@ $ pip install colorama
 $ pip install bs4
 -------------------------
 $ pip install tqdm
+-------------------------
 
 credits @zannmods
