@@ -1,0 +1,7 @@
+$ pkg update
+$ pkg upgrade
+$ pkg install python 
+$ pkg install libexpat
+$ pip install colorama
+$ pip install bs4
+$ pip install tqdm
